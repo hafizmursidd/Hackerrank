@@ -1,0 +1,15 @@
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\bin\Debug\net6.0\HackerrankCSharp.exe
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\bin\Debug\net6.0\HackerrankCSharp.deps.json
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\bin\Debug\net6.0\HackerrankCSharp.runtimeconfig.json
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\bin\Debug\net6.0\HackerrankCSharp.dll
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\bin\Debug\net6.0\HackerrankCSharp.pdb
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\obj\Debug\net6.0\HackerrankCSharp.csproj.AssemblyReference.cache
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\obj\Debug\net6.0\HackerrankCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\obj\Debug\net6.0\HackerrankCSharp.AssemblyInfoInputs.cache
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\obj\Debug\net6.0\HackerrankCSharp.AssemblyInfo.cs
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\obj\Debug\net6.0\HackerrankCSharp.csproj.CoreCompileInputs.cache
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\obj\Debug\net6.0\HackerrankCSharp.dll
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\obj\Debug\net6.0\refint\HackerrankCSharp.dll
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\obj\Debug\net6.0\HackerrankCSharp.pdb
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\obj\Debug\net6.0\HackerrankCSharp.genruntimeconfig.cache
+D:\Bootcamp 18\Hackerrank\Hackerrank\Hackerrank\obj\Debug\net6.0\ref\HackerrankCSharp.dll
