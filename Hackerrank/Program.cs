@@ -4,6 +4,10 @@ internal class Program
 {
     private static void Main(string[] args)
     {
-        AngryProfessor.Running();
+      //  AngryProfessor.Running();
+
+       // ElectronicsShop.Runnning();
+
+        PickingNumbers.Running();
     }
 }
