@@ -8,15 +8,19 @@ namespace HackerrankCSharp
 {
     internal class PickingNumbers
     {
-        public static int RunPickingNumbers (int[] data)
+        public static int RunPickingNumbers (int[] a)
         {
+            var aa= new List<int>();
+            aa.Sort();
+            Array.Sort(a);
+
             int result = 0;
-            for (int i = 0; i < data.Length; i++)
+            for (int i = 0; i < a.Length; i++)
             {
-                int resultTemp = 0;
-                for (int j = 0; j < data.Length; j++) 
+                int resultTemp = 1;
+                for (int j = i; j < a.Length; j++) 
                 { 
-                    int temp = Math.Abs(data[i] - data[j]);
+                    int temp = Math.Abs(a[i] - a[j]);
                     if (i == j) continue;
                     else if (temp == 1 || temp == 0)
                     {
@@ -29,13 +33,13 @@ namespace HackerrankCSharp
                     result = resultTemp;
                 }
             }
-
             return (result);
+            
         }
 
         public static void Running()
         {
-            int[] data = { 1, 1, 2, 2, 4, 4, 5, 5, 5};
+            int[] data = { 1, 2, 2, 3, 1, 2};
 
             int result = RunPickingNumbers(data);
 
